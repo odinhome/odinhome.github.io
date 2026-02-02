@@ -231,7 +231,7 @@ var baseMaterial = new THREE.MeshLambertMaterial({
 			  
 		  }, errorCallback);
 		} else {
-		  video.src = 'rin-SD.mp4';
+		  video.src = 'wukong.mp4';
 		}
 
 		videoImage = document.createElement( 'canvas' );
